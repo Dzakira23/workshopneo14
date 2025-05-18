@@ -1,0 +1,3 @@
+Nama = Dzakira Hapsarini
+Divisi = Programming
+Sub Divisi = Web Programming
